@@ -1,5 +1,5 @@
-* Ran: 
-主题: <置身事内>
+*主题: <置身事内>
+
 原因: 专业学者聊中国经济体系的观察
 总结: 本书类似曼昆的经济学,从宏观和微观两方面介绍了中国特色经济体系. 微观机制: 主要集中于地方政府在发展经济中所扮演的角色.主要有:招商引资,土地财政;
 
@@ -21,3 +21,14 @@
     2. 债务问题的关系;
     3. 供给侧改革;
 
+
+
+*主题: Coding problem
+
+* Valid Sudoku (LC36)
+    1. validator
+    2. solver
+    3. homework (solver + UI)
+* Two sum I/ II (LC1, LC167)
+    1. hashmap
+    2. two-pointer
